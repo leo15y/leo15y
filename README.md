@@ -1,4 +1,4 @@
-- 👋 Hi, @leo15y
+- 👋 Hi, I'm @leo15y
 - 👀 I’m interested in Computer Sciences!
 - 🌱 I’m currently learning how to code. 
 - 💞️ I’m looking to collaborate on projects that will help me learn how to code.
